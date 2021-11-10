@@ -1,6 +1,6 @@
 module.exports = {
     name: 'pause',
-    aliases: [],
+    aliases: ['moodu'],
     utilisation: '{prefix}pause',
     voiceChannel: true,
 

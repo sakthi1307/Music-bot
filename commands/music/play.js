@@ -2,7 +2,7 @@ const { QueryType } = require('discord-player');
 
 module.exports = {
     name: 'play',
-    aliases: ['p'],
+    aliases: ['p','padu'],
     utilisation: '{prefix}play [song name/URL]',
     voiceChannel: true,
 
