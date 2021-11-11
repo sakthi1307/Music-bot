@@ -1,0 +1,9 @@
+worker:node index.js
+
+build:
+
+  config:
+    NODE_ENV: production
+    API_TOKEN: OTA3Njk4OTE1OTA0NzQ1NTMz.YYq-fQ.cUhb3RWUqKxDe0rpnp_tel4NQlA
+run:
+  worker: node index.js
