@@ -6,7 +6,6 @@ global.client = new Client({
   disableMentions: "everyone",
   partials: ["CHANNEL"],
 });
-
 client.config = require("./config");
 
 global.player = new Player(client, client.config.opt.discordPlayer);
