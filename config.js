@@ -1,9 +1,11 @@
+const process = require('process');
+
 module.exports = {
     app: {
         px: '~',
         token: process.env.TOKEN,
         playing: 'by HAdes.. NAh j.k...\n Zerio ❤️',
-        
+
     },
 
     opt: {
