@@ -8,30 +8,6 @@ If you need help with this project, to get support faster you can join the help 
 
 *If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
 
-### ⚡ Configuration
-
-Open the configuration file located in the main folder `config.js`.
-
-```js
-module.exports = {
-    app: {
-        px: 'XXX',
-        token: 'XXX',
-        playing: 'by Zerio ❤️'
-    },
-
-    opt: {
-        DJ: {
-            enabled: false,
-            roleName: 'XXX',
-            commands: []
-        },
-        maxVol: 100,
-        loopMessage: false,
-        discordPlayer: {}
-    }
-};
-```
 
 Basic configuration
 
